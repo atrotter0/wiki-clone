@@ -1,0 +1,15 @@
+* {
+  ooutline: solid red;
+}
+
+.top-nav {
+  list-style-type: none;
+  text-align: right;
+}
+
+.top-nav li {
+  outline: red solid;
+  display: inline-block;
+  padding: 8px 10px;
+  font-size: 12px;
+}
