@@ -23,11 +23,31 @@ body {
   font-size: 12px;
 }
 
-.center{
+.center {
   text-align: center;
 }
 
 .top-nav-list-box {
   float: right;
   margin-top: 15px;
+}
+
+.green-background {
+  background-color: #f5fffa;
+}
+
+.green-title {
+  background-color: #cef2e0;
+  border: solid #a3b0bf 1px;
+  padding: 3px;
+}
+
+.blue-background {
+  background-color: #f5faff;
+}
+
+.blue-title {
+  background-color: #cedff2;
+  border: solid #a3b0bf 1px;
+  padding: 5px;
 }
