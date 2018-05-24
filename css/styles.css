@@ -12,6 +12,20 @@ body {
 
 }
 
+.logo {
+  margin-bottom: 30px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0 0 0 15px;
+}
+
+.list-title {
+  color: #000000;
+  border-bottom: 1px solid linear-gradient(to right, red , yellow);
+}
+
 .top-nav {
   list-style-type: none;
   text-align: right;
