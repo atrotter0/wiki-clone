@@ -6,7 +6,7 @@
 
 ## Description
 
-Wikipedia clone with Bootstrap
+Wikipedia clone with Bootstrap.
 
 ## Setup/Installation Requirements
 
@@ -17,6 +17,6 @@ Wikipedia clone with Bootstrap
 
 ### License
 
-*This software is licensed under the MIT license.*
+This software is licensed under the MIT license.
 
-Copyright (c) 2016 **_Abel Trotter & Devin Mounts_**
+Copyright (c) 2016 **Abel Trotter & Devin Mounts**
