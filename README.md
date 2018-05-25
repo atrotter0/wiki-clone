@@ -11,11 +11,11 @@ Wikipedia clone with Bootstrap.
 ## Setup/Installation Requirements
 
 1. Clone the repo
-1. Make some commits
-1. Push your changes
+1. Make a new branch
+1. Commit and push your changes
 1. Create a PR
 
-### License
+## License
 
 This software is licensed under the MIT license.
 
