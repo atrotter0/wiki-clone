@@ -9,7 +9,7 @@ body {
 }
 
 .sidebar {
-
+  min-width: 120px;
 }
 
 .logo {
@@ -44,6 +44,32 @@ body {
 .top-nav-list-box {
   float: right;
   margin-top: 15px;
+}
+
+.nav-tabs > li > a {
+  padding: 8px;
+}
+
+.well {
+  margin-bottom: 6px;
+  border-radius: 0px;
+  padding: 10px 10px;
+}
+
+.panel {
+  border-radius: 0px;
+}
+
+.sm-padding-left {
+  padding-left: 2px;
+}
+
+.sm-padding-right {
+  padding-right: 2px;
+}
+
+.panel-body {
+  padding: 5px 10px;
 }
 
 .green-background {
